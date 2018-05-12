@@ -1,11 +1,9 @@
 _repo: The-suppressed-Gospels-and-Epistles-of-the-original-New-Testament-of-Jesus-the-Christ-Complete_6516
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Forbidden books of the original New Testament
 covers:
 - cover_type: archival
-  image_path: 6516/6516-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 6516-h/images/cover.jpg
 creator:
   author:
     agent_name: Wake, William
@@ -15,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2074
     wikipedia: http://en.wikipedia.org/wiki/William_Wake
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6516#The-suppressed-Gospels-and-Epistles-of-the-original-New-Testament-of-Jesus-the-Christ-Complete
 gutenberg_issued: '2004-12-18'
 gutenberg_type: Text
 identifiers:
